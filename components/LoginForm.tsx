@@ -10,6 +10,7 @@ interface User {
     id: string
     name: string
     plan: string
+    slug: string
   }
 }
 
